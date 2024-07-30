@@ -1,0 +1,12 @@
+.carousel-item img {
+  height: 400px;
+}
+
+.card {
+  margin-bottom: 20px;
+}
+
+.navbar {
+  z-index: 999;
+  width: 100%;
+}
